@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Max&EphyTech</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAXtechtwo</title>
+</head>
+<body>
+  <style type="tex/css">
+    h1 {
+      color:gray;
+    }
+  </style>
+  <h1> INDEPENDENT </h1>
+  <style type="text/css">
+    p1 {
+color:green;
+    }
+  </style>
+  <p1> National electoral Commission </p1>
+  <br />
+<h3> Portal Account </h3>
+<p> Your use of this portals means you accept <br /> </p>
+<style type="text/css">
+  p2 {
+    color:blue;
+  }
+</style>
+<p> the <p2> Terms & Conditions. </p2> To continue, please <br /> </p>
+<p> use the form below to create your account <br /> </p>
+<p> or log in if you already have a portal <br /> </p>
+<p> Account </p>
+<br />
+<br />
+<center>
+  <h2> Sing up or log in with social <brr /> </h2>
+  <h2> Media </h2> 
+</center>
+<br />
+<br />
+<style type="text/css">
+  input {
+    outline: none;
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: white;
+  }
+</style>
+<input type="text" placeholder="G sign in with Google">
+<h1> Log in with Email </h1>
+<p> Log in here if you already have a Portal <br /> Account </p>
+<br />
+<p> Email </p>
+<label for="demo"></label>
+<input type="none" id="demo" />
+<p> Password </p>
+<label type="demo"></label>
+<input type="none"> 
+<br />
+
+<align-right> 
+  <style type="text/css">
+    button {
+      font-family: sans-serif;
+    }
+    #button {
+      background-color: blue;
+    }
+  </style>
+  <button id="button"> Log in </button>
+</align-right>
+<br />
+<h3> New Portal User </h3>
+<p> Create a Portal Account to Continue. </p>
+<br />
+<p> Name </p>
+<label for="demo"></label>
+<input type="none" id-unique="demo" />
+<p> Phone Number </p>
+<label type="demo"></label>
+<input type="none" id-unique="demo" />
+<p> Email </p>
+<label type="demo"> </label>
+<input type="none" id-unique="demo" />
+<p> Confirm Email </p>
+<label type="demo"> </label>
+<input type="none" id-unique="demo" />
+<p> Password </p>
+<label type="demo"> </label>
+<input type="none" id-unique="demo" />
+<br />
+<p> Security Check </p>
+</body>
+</html>
+</body>
+</html>
